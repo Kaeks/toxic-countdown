@@ -1,0 +1,16 @@
+@keyframes pride {
+  0% {background: red;}
+  14% {background: orange;}
+  29% {background: yellow;}
+  43% {background: green;}
+  57% {background: blue;}
+  71% {background: indigo;}
+  86% {background: violet;}
+  100% {background: red;}
+}
+
+@keyframes rainbow {
+  to {
+    background-position: -200% center;
+  }
+}
