@@ -1,5 +1,5 @@
 var startDate = new Date("Sep 21, 2017 00:00:00").getTime();
-var countDownDate = new Date("Oct 5, 2017 00:00:00").getTime();
+var countDownDate = new Date("Oct 4, 2017 17:17:00").getTime();
 var fullTime = countDownDate - startDate;
 var distance;
 
